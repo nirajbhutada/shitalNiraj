@@ -106,6 +106,13 @@ body.de_light {
 #wrapper {
 	overflow: hidden;
 }
+.gallery-images{
+	width: 360px;
+	height: 240px;
+}
+.couple-photos{
+	height:382px;
+}
 
 /* ================================================== */
 
@@ -6571,6 +6578,24 @@ a, img {
 	
 	.timeline>li>.timeline-badge{
 		display:none;
+	}
+	#custom-owl-slider .item img{
+		width: 100% !important;
+		height:100% !important;
+	}
+	h2.name{
+		font-size:60px;
+		color:#626570 !important;
+	}
+	#section-hero .center-y{
+		margin-top:260px !important;
+	}
+	#section-event .wedding-ceremony{
+		text-align: center;
+	}
+	.gallery-images{
+		width: 424px;
+		height: 282px;
 	}
 }
 
