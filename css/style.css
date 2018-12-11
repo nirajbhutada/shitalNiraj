@@ -6602,6 +6602,14 @@ a, img {
 		width: 424px;
 		height: 282px;
 	}
+	blockquote.very-big{
+		font-size:28px;
+	}
+	#section-quote{
+		background: url(../images/background/4.jpg) no-repeat;
+		background-position: 0 0 !important;
+		background-size: contain;
+	}
 }
 
 /* -------------------------------------------------- 
