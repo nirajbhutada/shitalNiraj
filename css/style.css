@@ -113,7 +113,12 @@ body.de_light {
 .couple-photos{
 	height:382px;
 }
-
+#section-quote blockquote{
+	color:#626570;
+}
+#section-hero .name{
+	color:#626570 !important;
+}
 /* ================================================== */
 
 
